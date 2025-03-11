@@ -6,7 +6,7 @@ Welcome to **HackerRank_Solutions**—a curated collection of my solutions to va
 
 Each challenge is organized into its own directory. For example, a typical folder structure looks like this:
 
-HackerRank_Solutions/ └── PythonSolutions/ └── DefaultDict_Tutorial/ ├── solution1.py # Initial solution (less optimized) ├── solution2.py # Optimized, Pythonic solution └── README.md # Detailed explanation of approaches and learnings
+'''HackerRank_Solutions/ └── PythonSolutions/ └── DefaultDict_Tutorial/ ├── solution1.py # Initial solution (less optimized) ├── solution2.py # Optimized, Pythonic solution └── README.md # Detailed explanation of approaches and learnings'''
 
 
 
