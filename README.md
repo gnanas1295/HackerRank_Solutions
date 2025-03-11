@@ -1,5 +1,7 @@
 # HackerRank_Solutions
 
+[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)](https://www.hackerrank.com/profile/gnanas1295)
+
 Welcome to **HackerRank_Solutions**—a curated collection of my solutions to various HackerRank challenges implemented in Python. This repository showcases my journey from initial approaches to more optimized, Pythonic solutions.
 
 ## Repository Structure
