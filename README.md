@@ -34,8 +34,6 @@ HackerRank_Solutions/
 
 The primary goal of this repository is to document my learning progress as I solve HackerRank problems. It serves as both a personal reference and a resource for others who are looking to improve their coding skills and learn best practices in Python.
 
-## How to Use
-
 ## Getting Started
 
 1. **Clone the Repository:**
