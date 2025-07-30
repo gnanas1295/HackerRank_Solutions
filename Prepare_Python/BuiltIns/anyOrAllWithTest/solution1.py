@@ -10,7 +10,7 @@ def allChecks(integers: list) -> bool:
             i if ((i > 0 and i < 10) or (i in expectedList)) else 0 for i in integers
         )
     else:
-        return "False"
+        return False
 
 
 if __name__ == "__main__":
